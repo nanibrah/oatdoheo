@@ -120,6 +120,7 @@
                 return;
             }
             async function _0x434a56(_0x3b7b7c) {
+                console.log("getting OCR DATA")
                 const _0x527cb1 = "https://api.ocr.space/parse/imageurl?apikey=" + _0x3b7b7c + "&isOverlayRequired=true&OCREngine=2&url=" + _0x271a0c;
                 return new Promise((_0x2bf461, _0x507d18) => {
                     const _0xe1f2ca = new XMLHttpRequest();
