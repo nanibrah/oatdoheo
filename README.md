@@ -4,4 +4,5 @@
 
 # yourhomework.js
 - Lấy đáp án mà bạn cần trên trang yourhomework.net
-  Cú pháp dùng: (async()=>{const u="https://raw.githubusercontent.com/nanibrah/oatdoheo/refs/heads/main/yourhomework.js";const r=await fetch(u);if(!r.ok)throw new Error("Fetch failed");eval(await r.text());})();
+- Cú pháp dùng:
+- (async()=>{const u="https://raw.githubusercontent.com/nanibrah/oatdoheo/refs/heads/main/yourhomework.js";const r=await fetch(u);if(!r.ok)throw new Error("Fetch failed");eval(await r.text());})();
