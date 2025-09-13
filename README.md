@@ -21,7 +21,7 @@ fetch("https://raw.githubusercontent.com/nanibrah/oatdoheo/refs/heads/main/yourh
 // ==UserScript==
 // @name         yourhomework.net cheat
 // @namespace    https://yourhomework.net/
-// @version      1.1
+// @version      2.0
 // @description  Tự động hiện đáp án đúng
 // @author       https://github.com/nanibrah
 // @match        https://yourhomework.net/*
